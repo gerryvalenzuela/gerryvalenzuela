@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerryvalenzuela
 - 👀 I’m interested in desktop application development.
-- 🌱 I’m currently learning C#, containers, data analytics and improving Powershell.
+- 🌱 I’m currently learning C#, containers, data analytics and improving my Powershell skills.
 - 📫 How to reach me ... 
 
 
